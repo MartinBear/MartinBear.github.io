@@ -1,0 +1,83 @@
+html, body{
+    background: linear-gradient(to right, teal ,lightcoral);
+    margin: 20px;
+    padding: 15px;
+    height: auto;
+    width: auto;
+    font-family: 'Roboto Mono', monospace;
+}
+button{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1em;
+    border-radius: 25px;
+    background: black;
+    text-align: center;
+    color: gold;
+}
+#dinner{
+    font-family: 'Roboto Mono', monospace;
+    color: lightsalmon;
+    font-size: 25px;
+}
+a{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+a:link{
+	color: darkblue;
+	text-decoration: none;
+}
+
+a:visited{
+	color:lightcoral;
+}
+
+a:hover{
+	background-color: #FDDA6E;
+}
+a:active{
+	color:blue;
+}
+#vegcheck{
+    font-size: 25px;
+    border-right: 25px;
+}
+
+.container {
+    font-family: 'Roboto Mono', monospace;
+    height: auto;
+    width: auto;
+    text-align: center;
+    border: 1px solid darkgoldenrod;
+	background-color: black;
+    opacity: 0.7;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2em;
+    color: darkgoldenrod;
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5em;
+    color: darkgoldenrod;
+}
+h3{ 
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1em;
+    color: darkgoldenrod;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    opacity: 0.7;
+    background: #333;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 25px;
+    color: lightsalmon;
+}
